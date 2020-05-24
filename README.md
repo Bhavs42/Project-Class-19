@@ -1,2 +1,2 @@
-# Project-Class-19
-This is what I have made
+# p5.play-boilerplate
+Boiler plate for p5.play
